@@ -19,9 +19,12 @@ print bcolors.BOLD + ''
 print '\t   # by djouamaa hocine   '
 print '\t   # v1.0 15.09.2018 '
 print '\t   # Github: /djouamaah'
-print '\t   # facebook: fb.com/hocine.djouama'
-print '\t   # djouamaah@gmail.com'
 print '\t   # this tool just for education '
+print '\t   __ _     _                _        __                     '
+print '\t  / _| |__ | |__  _ __ _   _| |_ ___ / _| ___  _ __ ___ ___  '
+print '\t | |_| '_ \| '_ \| '__| | | | __/ _ \ |_ / _ \| '__/ __/ _ \ '
+print '\t |  _| |_) | |_) | |  | |_| | ||  __/  _| (_) | | | (_|  __/ '
+print '\t |_| |_.__/|_.__/|_|   \__,_|\__\___|_|  \___/|_|  \___\___| '                                                      
 print '' + bcolors.ENDC
 
 email = str(raw_input("[?] User name | User ID | Email | Phone number :> "))
